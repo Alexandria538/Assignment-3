@@ -74,7 +74,7 @@ My method for testing the capabilities of Photoshop for creating video or group 
 *Figure 9. These are the steps to replicate my Actions for stylizing a video keyframe into stained glass and to have an electric border. Note that depending on your image, alterations might be necessary for the best effect. These lean more abstracted for video editing.*
 
 [![Assignment-3][images-fig10]](https://example.com)
-*Figure 10. Here is figure 10.*
+*Figure 10. This figure outlines the process for initiating a Batch Render in Photoshop after you have created an Action. I highly recommend enabling “Stop for Errors” in case something is amiss in your recorded Action. I also recommend making your Batch Folder and your Save Folder different.*
 
 [![Assignment-3][images-fig11]](https://example.com)
 *Figure 11. Here is figure 11.*
