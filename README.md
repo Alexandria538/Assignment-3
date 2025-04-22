@@ -43,7 +43,7 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 ## Abstract
 My project looks at an efficient workflow for creative image/video editing using Adobe Photoshop Actions tool and Batch Processing System. This innovative approach to video editing through Photoshop creates a fundamental shift to creative workflow management through the integration of industry-leading image manipulation with video editing techniques. Through systematic automation of Actions, users can achieve a simple and consistent application of visual edits across a string of images. This approach provides an alternative method to optimize productivity while ensuring uniform results across image collections through a post-processing pipeline. 
 
-**Additional Key Words and Phrases:** Adobe Photoshop, Adobe Firefly, Character Style Development, AI Image Generation, Raster-Based Editing, Human AI Collaboration, Visual Consistency, Creative Pipeline, Style Exploration, Visual Refinement, Consistency Maintenance, Digital Workflow
+**Additional Key Words and Phrases:** Adobe Photoshop, Adobe Premiere Pro, Automated Workflow, Batch Rendering, Creative Editing, Error Recovery, Frame-by-Frame Processing, Style Replication, Systematic Automation, Visual Consistency, Time Optimizaiton. 
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
