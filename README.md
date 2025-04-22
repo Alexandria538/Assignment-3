@@ -74,13 +74,27 @@ The workflow I created successfully demonstrates the potential of AI-assisted ch
 
 <!-- Bibliography -->
 ## Bibliography
-[1] Bansal, Gaurang, et al. "Revolutionizing visuals: the role of generative AI in modern image generation." ACM Transactions on Multimedia Computing, Communications and Applications 20.11 (2024): 1-22.
+[1] Eismann, Katrin, and Wayne Palmer. Photoshop restoration & retouching. Peachpit Press, 2006.
 
-[2] Huang, Julia. "The Art of AI: A Human-Centered AI (HCAI) User Study of Integrating Image-Generative Tools in Visual Art Workflows: The Case Of Adobe Firefly." (2024).
+[2] Geller, Marty. “ Photoshop: How to Create the Look of Watercolor Paintings.” YouTube, Blue Lightning TV, 17 Apr. 2022, www.youtube.com/watch?v=FhgTFAUZrMs.
 
-[3] Long, L. I. N. G., et al. "Sketchar: Supporting Character Design and Illustration Prototyping Using Generative AI." Proceedings of the ACM on Human-Computer Interaction 8.CHI PLAY (2024): 337.
+[3] Horowitz, David. "Teaching video editing and motion graphics with Photoshop." Innovative Marketing 13.3 (2017): 17-24.
 
-[4] Xu, Chengyuan. “Coherent Video Style Transfer Demo (2019, Private).” YouTube, YouTube, 27 Oct. 2022, www.youtube.com/watch?v=nQ_itjCBEAs.
+[4] Nichols, Robin. Mastering Adobe Photoshop Elements 2022: Boost your image-editing skills using the latest Adobe Photoshop Elements tools and techniques. Packt Publishing Ltd, 2021.
+
+[5] Powell, Noel. “Watercolor Painting Effect Tutorial - After Effects.” YouTube, Creation Effects, 11 May 2016, www.youtube.com/watch?v=tix2u3Hg9lA. 
+
+[6] Pueringer, Niko, and Dean Hughes. “Did We Just Change Animation Forever?” YouTube, Corridor Crew, 26 Feb. 2023, www.youtube.com/watch?v=_9LX9HSQkWo.
+
+[7] Xu, Chengyuan. “Coherent Video Style Transfer Demo (2019, Private).” YouTube, YouTube, 27 Oct. 2022, www.youtube.com/watch?v=nQ_itjCBEAs.
+
+[8] “About Actions and the Actions Panel.” Actions and the Actions Panel in Photoshop, 25 Sept. 2023, helpx.adobe.com/photoshop/using/actions-actions-panel.html. 
+
+[9] “EbSynth - Tutorial.” YouTube, Secret Weapons, 3 July 2019, www.youtube.com/watch?v=0RLtHuu5jV4.
+
+[10] “Make Any Photo Vintage in Adobe Photoshop | Tutorial.” YouTube, SonduckCreative, 20 Jan. 2023, www.youtube.com/watch?v=Oa5qvjTkCuY.  
+
+[11] “Process a Batch of Files.” Process a Batch of Photoshop Files, 24 May 2023, helpx.adobe.com/photoshop/using/processing-batch-files.html. 
 
 <!-- CONTACT -->
 ## Contact
