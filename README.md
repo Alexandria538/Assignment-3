@@ -36,7 +36,7 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 </div>
 
 [![Assignment-3][images-fig1]](https://example.com)
-*Figure 1. These are four stylistic edits I did through the use of Photoshop’s Batch Render System using Actions. * 
+*Figure 1. These are four stylistic edits I did through the use of Photoshop’s Batch Render System using Actions.* 
 
 <!-- Abstract -->
 ## Abstract
