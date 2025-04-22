@@ -65,7 +65,7 @@ My method for testing the capabilities of Photoshop for creating video or group 
 *Figure 6. This figure outlines the process for starting an Action to record your image edits.*
 
 [![Assignment-3][images-fig7]](https://example.com)
-*Figure 7. Of my nine generations of various styles, I found some consistency in the results. The 3-D styles [Blue: Horror Movie (Steven King), Yarn (DreamWorks Trolls), Cut out Paper (Bill Braun)] were the ones that generally required the least amount of editing outside of color correction or simile kit bashing. The general 2D styles [Green: Oil Painting (Vincent Van Gogh), Art Nouveau (Alphonse Mucha), Comic Book (Marvel Comics), Watercolor (Children’s Book - Jerry Pinkney)] required more editing to achieve their styles, whether it involved touch-ups, color correction, outlining, or more involved kit bashing. The abstract styles [Red: Cubism (Pablo Picasso), Fauvism (Andre Derain)] required the most in the editing phase. This shows that some styles are more easily replicable in Firefly, but there are methods in the editing phase that can combat this by building upon the generations.*
+*Figure 7. These are the steps to replicate my Action for turning a video keyframe into a watercolor painting. I used this video as inspiration: Geller, Marty. “ Photoshop: How to Create the Look of Watercolor Paintings.” YouTube, Blue Lightning TV, 17 Apr. 2022, www.youtube.com/watch?v=FhgTFAUZrMs. Note that depending on your image, alterations might be necessary for the best effect.*
 
 [![Assignment-3][images-fig8]](https://example.com)
 *Figure 8. Here is figure 8.*
