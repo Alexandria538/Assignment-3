@@ -80,7 +80,7 @@ My method for testing the capabilities of Photoshop for creating video or group 
 *Figure 11. Here are side-by-side comparisons of the original video frames and their stylized edits.*
 
 [![Assignment-3][images-fig12]](https://example.com)
-*Figure 12. Here is figure 12.*
+*Figure 12. To highlight the re-usability of this process, this figure shows my trials of re-batching image sets with different selected Actions. Note that sometimes Actions need to be altered for the best effect.*
 
 ## Result and Future Work
 Here is a Link to the rendered videos: https://drive.google.com/drive/folders/1bbva6FQ2peCfKfe0PDtP9EU0inysZV_P?usp=sharing 
