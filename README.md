@@ -68,7 +68,7 @@ My method for testing the capabilities of Photoshop for creating video or group 
 *Figure 7. These are the steps to replicate my Action for turning a video keyframe into a watercolor painting. I used this video as inspiration: Geller, Marty. “ Photoshop: How to Create the Look of Watercolor Paintings.” YouTube, Blue Lightning TV, 17 Apr. 2022, www.youtube.com/watch?v=FhgTFAUZrMs. Note that depending on your image, alterations might be necessary for the best effect.*
 
 [![Assignment-3][images-fig8]](https://example.com)
-*Figure 8. Here is figure 8.*
+*Figure 8. These are the steps to replicate my Action for turning a video keyframe into an Old Photograph. I used this video as inspiration: “Make Any Photo Vintage in Adobe Photoshop | Tutorial.” YouTube, SonduckCreative, 20 Jan. 2023, www.youtube.com/watch?v=Oa5qvjTkCuY. Note that depending on your image, alterations might be necessary for the best effect.*
 
 [![Assignment-3][images-fig9]](https://example.com)
 *Figure 9. Here is figure 9.*
