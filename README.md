@@ -1,5 +1,5 @@
 # Assignment_03
-Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University (Spring 2025)
+Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University (Spring 2025)
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
