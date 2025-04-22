@@ -21,10 +21,10 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">Assignment_2: AI Character Style Exploration and Adobe Firefly Generations</h3>
+  <h3 align="center">Assignment_3: Photoshop Batch Rendering Using Actions for Stylistic Video Editing</h3>
 
   <p align="center">
-    My project is trying to encapsulate the idea behind combining AI Image generations and raster-based editing to establish a character style variation development workflow that assists in rapid concept visualization team communication. My primary goals were to maintain visual consistency while pushing the exploration of styles and the abilities of the chosen programs. 
+    My project is trying to explore the use of Photoshop's tools, specifically the Batch Render Processing System and the Actions Tool, to create an alternative pipeline for photo group and video editing by systematic automation of image manipulation. My primary goals were to establish consistent application of different style edits and evaluating the feasability of using Photoshop as an alternative video editing tool. 
     <br />
     <a href="https://github.com/Alexandria538/Assignment-2/blob/main/Assignment_2_Final.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
