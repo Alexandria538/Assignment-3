@@ -69,6 +69,19 @@ My method for testing the capabilities of Photoshop for creating video or group 
 *Fig. 7. Of my nine generations of various styles, I found some consistency in the results. The 3-D styles [Blue: Horror Movie (Steven King), Yarn (DreamWorks Trolls), Cut out Paper (Bill Braun)] were the ones that generally required the least amount of editing outside of color correction or simile kit bashing. The general 2D styles [Green: Oil Painting (Vincent Van Gogh), Art Nouveau (Alphonse Mucha), Comic Book (Marvel Comics), Watercolor (Children’s Book - Jerry Pinkney)] required more editing to achieve their styles, whether it involved touch-ups, color correction, outlining, or more involved kit bashing. The abstract styles [Red: Cubism (Pablo Picasso), Fauvism (Andre Derain)] required the most in the editing phase. This shows that some styles are more easily replicable in Firefly, but there are methods in the editing phase that can combat this by building upon the generations.*
 
 [![Assignment-3][images-fig8]](https://example.com)
+*Fig. 8. Here is figure 8.*
+
+[![Assignment-3][images-fig9]](https://example.com)
+*Fig. 9. Here is figure 9.*
+
+[![Assignment-3][images-fig10]](https://example.com)
+*Fig. 10. Here is figure 10.*
+
+[![Assignment-3][images-fig11]](https://example.com)
+*Fig. 11. Here is figure 11.*
+
+[![Assignment-3][images-fig12]](https://example.com)
+*Fig. 12. Here is figure 12.*
 
 ## Result and Future Work
 With the videos I created, I believe I have shown that maintaining consistency and showing a lot of customizability were easily attainable through the use of these Photoshop tools. The process also shows flexibility between file types and easier recovery from errors as the process can be easily replicated or altered based on artistic need. Depending on the effects used, the consistency between frames may be affected by Jittering. I found there are methods to cut down on flickering via tools like deflicker in Premiere Pro (Pueringer). It did arguably take a longer time than video processing programs, but I had already expected that, and I was nonetheless happy with the outcomes of the stylizing. The process of highlighting the usefulness of batch rendering and action recording for video editing, rather than photo grouping alone, I believe, was a success. I would like to explore other tools to add in conjunction with the action tool or other programs that can benefit from the process of quick image stylization. For example, EbSynth, which requires selected keyframes, would benefit from this by selecting the specific files you wish to use and putting them through a relatively small batch render to cut down on time (Secret Weapons). 
