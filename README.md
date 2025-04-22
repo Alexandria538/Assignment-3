@@ -77,7 +77,7 @@ My method for testing the capabilities of Photoshop for creating video or group 
 *Figure 10. This figure outlines the process for initiating a Batch Render in Photoshop after you have created an Action. I highly recommend enabling “Stop for Errors” in case something is amiss in your recorded Action. I also recommend making your Batch Folder and your Save Folder different.*
 
 [![Assignment-3][images-fig11]](https://example.com)
-*Figure 11. Here is figure 11.*
+*Figure 11. Here are side-by-side comparisons of the original video frames and their stylized edits.*
 
 [![Assignment-3][images-fig12]](https://example.com)
 *Figure 12. Here is figure 12.*
