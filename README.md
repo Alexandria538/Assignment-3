@@ -35,7 +35,6 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   </p>
 </div>
 
-
 [![Assignment-3][images-fig1]](https://example.com)
 *Fig. 1. These are the nine style explorations I did based on my initial image on the top left, using Adobe Firefly’s Generations and editing in Photoshop. The styles are: Original, Oil Painting (Vincent Van Gogh), Art Nouveau (Alphonse Mucha), Cubism (Pablo Picasso), Fauvism (Andre Derain), Horror Movie (Steven King), Yarn (DreamWorks Trolls), Cut out Paper (Bill Braun), Comic Book (Marvel Comics), Watercolor (Children’s Book - Jerry Pinkney).* 
 
