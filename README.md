@@ -83,6 +83,8 @@ My method for testing the capabilities of Photoshop for creating video or group 
 *Fig. 12. Here is figure 12.*
 
 ## Result and Future Work
+Here is a Link to the rendered videos: 
+
 With the videos I created, I believe I have shown that maintaining consistency and showing a lot of customizability were easily attainable through the use of these Photoshop tools. The process also shows flexibility between file types and easier recovery from errors as the process can be easily replicated or altered based on artistic need. Depending on the effects used, the consistency between frames may be affected by Jittering. I found there are methods to cut down on flickering via tools like deflicker in Premiere Pro (Pueringer). It did arguably take a longer time than video processing programs, but I had already expected that, and I was nonetheless happy with the outcomes of the stylizing. The process of highlighting the usefulness of batch rendering and action recording for video editing, rather than photo grouping alone, I believe, was a success. I would like to explore other tools to add in conjunction with the action tool or other programs that can benefit from the process of quick image stylization. For example, EbSynth, which requires selected keyframes, would benefit from this by selecting the specific files you wish to use and putting them through a relatively small batch render to cut down on time (Secret Weapons). 
 
 ## Conclusion
