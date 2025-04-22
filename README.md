@@ -71,7 +71,7 @@ My method for testing the capabilities of Photoshop for creating video or group 
 *Figure 8. These are the steps to replicate my Action for turning a video keyframe into an Old Photograph. I used this video as inspiration: “Make Any Photo Vintage in Adobe Photoshop | Tutorial.” YouTube, SonduckCreative, 20 Jan. 2023, www.youtube.com/watch?v=Oa5qvjTkCuY. Note that depending on your image, alterations might be necessary for the best effect.*
 
 [![Assignment-3][images-fig9]](https://example.com)
-*Figure 9. Here is figure 9.*
+*Figure 9. These are the steps to replicate my Actions for stylizing a video keyframe into stained glass and to have an electric border. Note that depending on your image, alterations might be necessary for the best effect. These lean more abstracted for video editing.*
 
 [![Assignment-3][images-fig10]](https://example.com)
 *Figure 10. Here is figure 10.*
