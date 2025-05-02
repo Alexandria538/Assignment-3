@@ -26,7 +26,7 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <p align="center">
     My project is trying to explore the use of Photoshop's tools, specifically the Batch Render Processing System and the Actions Tool, to create an alternative pipeline for photo group and video editing by systematic automation of image manipulation. My primary goals were to establish consistent application of different style edits and evaluating the feasability of using Photoshop as an alternative video editing tool. 
     <br />
-    <a href="https://github.com/Alexandria538/Assignment-3/Assignment_3__Photoshop_Batch_Rendering_Using_Actions_for_Stylistic_Video_Editing_OverLeaf.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/Alexandria538/Assignment-3/blob/main/Assignment_3__Photoshop_Batch_Rendering_Using_Actions_for_Stylistic_Video_Editing_OverLeaf.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://tdelafuente.myportfolio.com/">Tessa DeLaFuente</a>
